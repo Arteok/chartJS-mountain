@@ -64,16 +64,19 @@ canvas {
 .cols-3 > * {
     width: 33.33%;
     margin: 10px;
+    background-color:#34495e;
+
 }
 
 .cols-2 > * {
     width: 50%;
     margin: 10px;
-}
+    background-color:#34495e;}
 
 .cols-1 > * {
     width: 100%;
     margin: 10px;
+    background-color:#34495e;
 }
 
 #chart6 {
