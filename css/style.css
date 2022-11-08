@@ -62,7 +62,7 @@ canvas {
 }
 
 .cols-3 > * {
-    width: 33.33%;
+    width: 50%;
     margin: 10px;
     background-color:#34495e;
 
@@ -74,6 +74,12 @@ canvas {
     background-color:#34495e;}
 
 .cols-1 > * {
+    width: 100%;
+    margin: 10px;
+    background-color:#34495e;
+}
+
+.cols-4 > * {
     width: 100%;
     margin: 10px;
     background-color:#34495e;
